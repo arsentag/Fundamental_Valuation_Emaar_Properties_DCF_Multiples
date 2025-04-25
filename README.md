@@ -23,7 +23,7 @@ The objective is to estimate Emaar's intrinsic value using scenario-based foreca
 
 ---
 
-## 🧾 Key Results
+## Key Results
 | Methodology    | EV (AED Bn) | EV (USD Bn) |
 |----------------|-------------|-------------|
 | DCF - Optimistic | 286.03      | 77.87       |
